@@ -49,3 +49,6 @@ _Alta de ramos_
 ![alt text](alta-ramo.png "Logo Title Text 1")
 
 [Video del proyecto]()
+
+_Página principal_ 
+![alt text](pagina-principal.png "Logo Title Text 1")
