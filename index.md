@@ -4,11 +4,13 @@ El proyecto de Sistema de ordenes de servicio sirve para llevar el control en el
 
 [editor on GitHub](https://github.com/hugoflores92/test-gp/edit/master/index.md)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Presolicitud
 
-### Markdown
+La presolicitud es un formato que podra llenar cualquier persona (estudiantes, profesores que no contengan cuenta para entrar al sistema) estas personas tendran que proporcionar algunos datos personales como su nombre, apellidos, correo y algún teléfono ya que esto tener un historial de si se cumplio la tarea o no. Ademas se tendra que proporcionar la clave de la puerta y una breve descipción del incidente.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Solicitud
+
+La solicitud es un formato en donde se debe agregar el nombre del solicitante, el operador al cual se le asiganara la tarea, la clave de la puerta y una descripción de la incidencia.
 
 ```markdown
 Syntax highlighted code block
@@ -46,6 +48,4 @@ Inline-style:
 Reference-style: 
 ![alt text][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
-
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+[logo]:https://SOS2018\informativa\alta-solicitud.png "Logo Title Text 2"
